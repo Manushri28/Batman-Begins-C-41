@@ -46,7 +46,6 @@ function setup(){
     bat1 = createSprite(150, 190, 10, 15);
     bat1.addImage(bat1_img)
     bat1.scale = 0.21;
-    bat1.velocityX = 6;
 
     thunderBolt1 = createSprite(250, -150, 10, 15);
     thunderBolt1.addImage(thunderBolt1_img)
